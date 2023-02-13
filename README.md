@@ -1,1 +1,1 @@
-# english-coptic
+# Machine Translation System for Coptic
